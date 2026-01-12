@@ -1,0 +1,208 @@
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csprojAssemblyReference.cache
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\4 Семестр\OOP\Л-4\First\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.DtrHostLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxTermLookupLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLDISTXLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLMERGXLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLResolver.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.REPLERRXLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxAgg.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxCache.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SSCE.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxSplit.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxCopyMap.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxDataConvert.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxGroupDups.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxDerived.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SqlDest.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxBestMatch.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.OleDbSrc.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxLookup.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxTermExtractionLib.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ApplicantForm.resources
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AdminForm.resources
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.ClientModel.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alVla\OneDrive\Рабочий стол\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CompanyForm.resources
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Azure.Core.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Azure.Identity.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.SqlServer.Server.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.ClientModel.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Memory.Data.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.DtrHostLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxTermLookupLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLDISTXLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLMERGXLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SQLResolver.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.REPLERRXLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxAgg.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxCache.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SSCE.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxSplit.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxCopyMap.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxDataConvert.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxGroupDups.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxDerived.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.SqlDest.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxBestMatch.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.OleDbSrc.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxLookup.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\Interop.TxTermExtractionLib.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AdminForm.resources
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ApplicantForm.resources
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CompanyForm.resources
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\3-2\Курс._БД\C#\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
